@@ -1,6 +1,6 @@
 # Project Description
 
-**Deployed Frontend URL:** [Live site](https://x-onchain.netlify.app/)
+**Deployed Frontend URL:** [Live site](https://x-onchain.vercel.app/)
 
 **Solana Program ID:** `4se6A74JXwE467VyoVpB9DcitWk9jd7Mf68XsbZ1r31T`
 
