@@ -1,6 +1,6 @@
 # Project Description
 
-**Deployed Frontend URL:** *[To be added after frontend deployment]*
+**Deployed Frontend URL:** [Live site](https://x-onchain.netlify.app/)
 
 **Solana Program ID:** `4se6A74JXwE467VyoVpB9DcitWk9jd7Mf68XsbZ1r31T`
 
